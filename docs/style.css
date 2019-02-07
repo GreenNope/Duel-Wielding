@@ -4,14 +4,16 @@ td {
 }
 
 .char {
-   font-family: Courier New, Courier, monospace;
+ width: 90px;
+ font-family: Courier New, Courier, monospace;
  font-size:40pt; text-align:
  center;
  margin: auto
   
 }
 .charSub {
-   font-family: Courier New, Courier, monospace;
+ width: 90px;
+ font-family: Courier New, Courier, monospace;
  font-size:20pt; text-align:
  center;
  margin: auto
