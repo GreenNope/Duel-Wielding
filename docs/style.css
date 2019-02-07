@@ -2,3 +2,35 @@ td {
   width: 100px;
   height: 100px
 }
+
+.char {
+   font-family: Courier New, Courier, monospace;
+ font-size:40pt; text-align:
+ center;
+ margin: auto
+  
+}
+.charSub {
+   font-family: Courier New, Courier, monospace;
+ font-size:20pt; text-align:
+ center;
+ margin: auto
+  
+}
+  
+  
+
+.ssr {
+  color:#FFD700; 
+  font-weight:bold
+}
+
+.r {
+  color:#999999; 
+  font-weight:bold
+}
+
+.c {
+  color:#A0522D; 
+  font-weight:bold
+}
